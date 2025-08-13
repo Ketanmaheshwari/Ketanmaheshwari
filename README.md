@@ -23,16 +23,25 @@
 
 ---
 
-## 📌 Projects (More coming soon...)  
-🔹 **QuickCourt** 🏟 – A turf & playground booking application.  
-🔹 **Wanderlust** 🌍 – A travel & accommodation booking platform.  
+## 📌 Projects  
+
+### 🔹 [Wanderlust 🌍](https://github.com/ketanmaheshwari/wanderlust) – Travel Destination Listing Platform  
+A full-stack web application that allows users to explore, list, and manage travel destinations.  
+**Tech:** Node.js, Express.js, MongoDB, EJS, Cloudinary  
+
+**Features:**  
+- 🌍 Browse & search travel listings  
+- 📸 View detailed info, images, and pricing  
+- ✏️ Add, edit, and delete your own listings  
+- 💬 Review & rate destinations  
+- 🔐 Secure authentication with Passport.js  
+- 📱 Fully responsive design  
 
 ---
 
 ## 📈 My GitHub Stats  
 ![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanmaheshwari&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanmaheshwari&layout=compact&theme=radical)  
-
 
 ---
 
