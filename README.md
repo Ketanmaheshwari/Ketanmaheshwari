@@ -40,7 +40,7 @@ A full-stack web application that allows users to explore, list, and manage trav
 ---
 
 ## 📈 My GitHub Stats  
-![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanmaheshwari&show_icons=true&theme=radical)  
+![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanmaheshwari&show_icons=true&theme=radical&cache_seconds=60)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanmaheshwari&layout=compact&theme=radical)  
 
 ---
